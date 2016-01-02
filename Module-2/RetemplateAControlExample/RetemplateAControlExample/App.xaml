@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="RetemplateAControlExample.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RetemplateAControlExample"
+    RequestedTheme="Light">
+
+</Application>
