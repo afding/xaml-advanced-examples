@@ -1,0 +1,2 @@
+Incomplete: Weird issue preventing the first case, step 28, from working.
+https://courses.edx.org/courses/course-v1:Microsoft+DEV206.2x+3T2015/courseware/040b2e9873ef4b76a287945a84e21228/1d6f9287694a4927bf2725aeb0975b5e/
